@@ -143,5 +143,4 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/chagallwifi/proprietary/etc/wifi/wpa_supplicant_overlay.conf:system/etc/wifi/wpa_supplicant_overlay.conf \
     vendor/samsung/chagallwifi/proprietary/usr/idc/Synaptics_HID_TouchPad.idc:system/usr/idc/Synaptics_HID_TouchPad.idc \
     vendor/samsung/chagallwifi/proprietary/usr/keylayout/gpio-keys.kl:system/usr/keylayout/gpio-keys.kl \
-    vendor/samsung/chagallwifi/proprietary/usr/keylayout/Generic.kl:system/usr/keylayout/Generic.kl \
     vendor/samsung/chagallwifi/proprietary/sbin/sswap:root/sbin/sswap
